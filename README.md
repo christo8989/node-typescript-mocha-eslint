@@ -1,5 +1,5 @@
 # node-typescript-mocha
-A starter for Node.js, TypeScript, and Mocha.
+A guide to help you create a development environment with Node, TypeScript, Mocha, and ESLint.
 
 ## Install
 ```
