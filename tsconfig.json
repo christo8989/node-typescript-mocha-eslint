@@ -69,6 +69,6 @@
       {
         "transform": "typescript-transform-paths"
       }
-    ],
-  },
+    ]
+  }
 }
