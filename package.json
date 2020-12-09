@@ -10,7 +10,7 @@
   "scripts": {
     "build": "rimraf dist && ttsc --build tsconfig.prod.json",
     "start": "yarn run start:dev",
-    "test": "mocha src/**/*.test.ts --config .mocharc.json --watch",
+    "test": "mocha --config .mocharc.json --watch src/**/*.test.ts",
     "lint": "eslint src/**/*.ts --fix",
     "start:dev": "nodemon --config .nodemonrc.json src/index.ts",
     "start:prod": "node dist/index.js"
