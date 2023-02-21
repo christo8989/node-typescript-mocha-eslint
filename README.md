@@ -8,7 +8,7 @@ yarn install
 
 ## Develop
 ```
-yarn start
+yarn dev
 ```
 
 ## Test
@@ -24,5 +24,5 @@ yarn build
 
 ## Production
 ```
-yarn start:prod
+yarn start
 ```
